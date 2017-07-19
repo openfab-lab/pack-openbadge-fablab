@@ -14,10 +14,10 @@ Copypasta = y a pas une app pour compter les ctrl+c ctrl+v?
 
 ## les badges
 - Fusion
-- github
-- TimeLord
+- github, 1 contribution (visible sur nos profils) = 1pt. On devra mettre un Level min pour accepter les pull request. (conseil reçu)
+- TimeLord, son unité, le tps bien sur. 1 min trackée et assignée à une tâche/issues = 1pt
 - Copypasta
 - cargoXYZ
 - lasersaur
-- firestarter
-- 
+- firestarter, unité: un feu, un barbecue allumé = 1pt
+- Markdown, unité: la fonction, avec un maximum de fonctions à maitriser de [x]
