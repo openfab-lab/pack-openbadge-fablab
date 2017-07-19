@@ -1,4 +1,4 @@
-# le Pack Badges
+# le Pack openBadges spécial fablab
 
 **contexte:**
 Faire un pack avec des badges compétences type Fablab en lien avec Openbadge.   
@@ -19,4 +19,5 @@ Copypasta = y a pas une app pour compter les ctrl+c ctrl+v?
 - Copypasta
 - cargoXYZ
 - lasersaur
-
+- firestarter
+- 
