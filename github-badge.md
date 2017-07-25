@@ -15,4 +15,6 @@ counting commits on your github profile
 - level 2 = 40 commits, 
 - level 3 = 80 commits, 
 - level 4 = 160 commits, 
-- etc...
+- level 5 = 320 commits,
+- level 6 = 640 commits,
+- 
