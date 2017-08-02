@@ -15,9 +15,8 @@ proposition with web-serveroff + Montserrat:
 font possible:  
 http://www.dafont.com/fr/gidole.font?text=BURO  
 http://www.dafont.com/fr/cherry.font?text=BURO   
-http://www.dafont.com/fr/jesaya-free.font?text=BURO 
-**http://www.dafont.com/fr/web-serveroff.font?text=BURO**
-
+http://www.dafont.com/fr/jesaya-free.font?text=BURO   
+**http://www.dafont.com/fr/web-serveroff.font?text=BURO**   
 + Montserrat pour les chiffres... 
 
 
@@ -27,10 +26,12 @@ nécessite les badges:
 - arduino [ :star: ]
 - lasersaur [ :star: ]
 - 3dprinter [ :star: ]
+- github [ :star: ]
 
-Il faut savoir accueillir un noobs et rediriger vers les ressources de base.   
+Il faut savoir accueillir un noob et le rediriger vers les ressources de base.   
 Il faut savoir comment éteindre quels machines et comment, s'assurer qu'on n'oublie rien en partant. Safety first.   
-Il faut savoir comment réagir en cas de problème.   
+Il faut savoir comment réagir en cas de problème (par exemple: le téléphone qui sonne)   
+Et bien sur, documenter sur github mais sans ça, t'es pas superUser....  
 
 ## level up
 ?
