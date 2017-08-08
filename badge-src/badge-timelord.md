@@ -13,8 +13,10 @@ counting minutes via toggl reporting on your account, then round by hours.
 [todo] creating a scale for leveling up. like 
 - level 1 = 1 h, 
 - level 2 = 2 h, 
-- level 3 = 4 h, 
-- level 4 = 8 h, 
-- level 5 = 16 h,
-- level 6 = 32 h,
-- 
+- level 3 = 3 h, 
+- level 4 = 5 h, 
+- level 5 = 13 h,
+- level 6 = 21 h,
+- level 7 = 34 h,
+- level 8 = 55 h, 
+
