@@ -13,8 +13,10 @@ counting commits on your github profile
 [todo] creating a scale for leveling up. like 
 - level 1 = 20 commits, 
 - level 2 = 40 commits, 
-- level 3 = 80 commits, 
-- level 4 = 160 commits, 
-- level 5 = 320 commits,
-- level 6 = 640 commits,
-- 
+- level 3 = 60 commits, 
+- level 4 = 100 commits, 
+- level 5 = 160 commits,
+- level 6 = 260 commits,
+- level 7 = 420
+- 8 = 680
+- 9 = 1100
