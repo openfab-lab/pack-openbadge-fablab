@@ -14,18 +14,15 @@ http://www.apli.fr/softwareyplantillas/software.aspx
 
 ## Badges list:
 
+<img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/12049360/29082387-9dbc22e0-7c65-11e7-956f-a56aaf1de677.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/12049360/29082386-9dba9fb0-7c65-11e7-82cf-c4eb95d33bfe.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/12049360/29082389-9dbf7a12-7c65-11e7-8040-6ed85aa7bdf8.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/12049360/29082388-9dbe81d4-7c65-11e7-9e36-fe8d3055c06d.png" width="15%"></img> 
+
 [To propose a new one](https://github.com/openfab-lab/pack-openbadge-fablab/issues)  
 And to work on one, just create a branch and pull a request to start talking about it.
-### [buro274](/badge-src/badge-buro274.md)
-![buro](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-buro274.png)
-### [github](/badge-src/badge-github.md)
-![github](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-github.png)
-### [Fusion360](/badge-src/badge-fusion360.md)
-![fusion](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-fusion360.png)
-### [Lasersaur](/badge-src/badge-lasersaur.md)
-![laser](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-lasersaur.png)
-### [linuxcnc](/badge-src/badge-linuxcnc.md)
-![linuxcnc](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-linuxcnc.png)
-### [timeLord](/badge-src/badge-timelord.md)
-![timelord](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-timelord.png)
+ 1. [buro274](/badge-src/badge-buro274.md)
+ 1. [github](/badge-src/badge-github.md)
+ 1. [Fusion360](/badge-src/badge-fusion360.md)
+ 1. [Lasersaur](/badge-src/badge-lasersaur.md)
+ 1. [linuxcnc](/badge-src/badge-linuxcnc.md)
+ 1. [timeLord](/badge-src/badge-timelord.md)
+
 
