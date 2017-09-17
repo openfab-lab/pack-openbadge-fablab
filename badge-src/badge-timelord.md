@@ -19,4 +19,5 @@ counting minutes via toggl reporting on your account, then round by hours.
 - level 6 = 21 h,
 - level 7 = 34 h,
 - level 8 = 55 h, 
-
+- level 9 = 89 h,
+- level 10 = 144 h,
