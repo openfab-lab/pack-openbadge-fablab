@@ -33,5 +33,59 @@ Il faut savoir comment éteindre quels machines et comment, s'assurer qu'on n'ou
 Il faut savoir comment réagir en cas de problème (par exemple: le téléphone qui sonne)   
 Et bien sur, documenter sur github mais sans ça, t'es pas superUser....  
 
+Approbation par 3 membres badgés 274?
+
+### Sécurité
+Savoir où et comment utiliser :
+- Arrêt d'urgence machines 
+- Extincteurs
+- Boite de premier secours
+- Coffret électrique (si les plombs sautent)
+- Téléphone (numéro d'urgence)
+- Connaitre les clauses d'assurance OpenFab
+- Port d'équipements de protection
+
+### Connaissances machines
+- Avoir les badges Arduino, Lasersaur et 3dprinter
+- Savoir utiliser les imprimantes
+- Savoir utiliser les outils manuels (badge électroportatif?)
+
+### Rangement
+- Savoir où sont les choses
+- Savoir ce qui est accessible (stockage perso)
+- Laisser les lieux propres (nettoyage et tri)
+
+### Protocole de sortie
+- Eteindre toutes les machines
+- Eteindre les électromenagers
+- Sortir les poubelles
+- Etaindre l'éclairage
+- Vérifier que la porte est bien fermée
+
+### Acceuil
+- Répondre au téléphone/interphone
+- Connaitre les prix (machines/bar/cotisation, perso ou pro)
+- Initiation machines
+- Acces à la page Facebook (diffusion des permanences?)
+- Connaitre la "hiérarchie" OpenFab/Synthonie
+- Emplacement des docs admin en cas de controle
+
+### Transfert d'argent
+- Percevoir et stocker l'argent pour usage machine/bar
+- N° du compte de versement
+- Fond de caisse
+- Achats (sortie de caisse) -> justificatifs, ticket de caisse
+- Rembourssement, note de frais
+
+### Reception
+- colis/courrier
+
+### Accidents/dégradation
+- Responsabilité/assurance
+
+### Limite d'horaire
+- Acces OpenFab
+- Utilisation machines (tapage nocturne)
+
 ## level up
 ?
