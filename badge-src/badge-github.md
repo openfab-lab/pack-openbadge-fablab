@@ -5,7 +5,8 @@
 [thundercat]: https://user-images.githubusercontent.com/12049360/29084854-a7805d84-7c6d-11e7-92ce-83178d8c2e7a.gif
 
 ### level 1
-![git1](https://user-images.githubusercontent.com/12049360/28559125-780697e8-7115-11e7-8321-9c7d188bafc4.png)
+
+<img src="https://user-images.githubusercontent.com/12049360/32487863-2695033e-c3ab-11e7-87e3-2c2d24a21337.png" width="150">
 
 ## conditions
 - unlock level 1 with [tutorial superUser Openfab](https://github.com/openfab-lab/gamification-fablab/blob/master/Level-UP/guide-superuser.md). (aka account github, issues, repo, markdown and adding picture)
