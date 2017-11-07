@@ -20,3 +20,4 @@ counting commits on your github profile
 - level 7 = 420
 - 8 = 680
 - 9 = 1100
+- 10 = 1780
