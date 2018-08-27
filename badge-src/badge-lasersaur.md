@@ -2,6 +2,15 @@
 
 ![skillstree](https://user-images.githubusercontent.com/12049360/44627391-8da7b180-a92d-11e8-85f4-a927963a1bfb.jpg)
 
+Level 1 means that:
+- I can start and shutdown the machine and the air compressor.
+- I know where and when I must use the emergency stop. When I must use safety glasses.
+- I understand the risk to burn materials and why some are forbidden.
+- I understand what is a svg file and how to load it.
+- I understand the concept of focus, feed and power.
+- I can effectively engrave and cut on wood.
+- both side, in the right order.
+- I take care of the machine and clean after I use it.  
 
 ## visuel
 
@@ -26,12 +35,15 @@ Power: 2.5W
 ## conditions
 on which condition do you unlock this badge?  
 ### unlock level 1 from completing one of these challenges:
-- [x]
+- [x] [Making a box](https://nicolasdb.github.io/post/boxes/) to store tools and shit.
+- [ ] [Making 10 coins](https://github.com/nicolasdb/nicolasdb.github.io/issues/83#issuecomment-411334080) of 5 crrr.  
+- [ ] Other ideas?
 
-### BONUS
-Whatever machine you use, You'll earn USE1 and his sub-skill associated aka badge USE1.1 or USE1.2
+## BONUS
+- Whatever machine you use, You'll earn USE1 and his sub-skill associated aka badge USE1.1 or USE1.2
+- I know the different between both machine and use them both together to exploit the best from both.
 
-## level up
+### level up
 This badge can level up.   
 Gain XP point for each laser project you document. (see how to document... à compléter)  
 
