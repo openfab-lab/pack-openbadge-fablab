@@ -9,7 +9,7 @@ Level 1 means that:
 - I understand what is a svg file and how to load it.
 - I understand the concept of focus, feed and power.
 - I can effectively engrave and cut on wood.
-- both side, in the right order.
+- Chronology, each layer in the right order.
 - I take care of the machine and clean after I use it.  
 
 ## visuel
@@ -38,6 +38,7 @@ on which condition do you unlock this badge?
 - [x] [Making a box](https://nicolasdb.github.io/post/boxes/) to store tools and shit.
 - [ ] [Making 10 coins](https://github.com/nicolasdb/nicolasdb.github.io/issues/83#issuecomment-411334080) of 5 crrr.  
 - [ ] Other ideas?
+`soit un job qui serve Openfab, soit un projet pour la personne`
 
 ## BONUS
 - Whatever machine you use, You'll earn USE1 and his sub-skill associated aka badge USE1.1 or USE1.2
