@@ -1,6 +1,6 @@
-# Laser cutting - Use 1
+# Laser cutting - Usage 1
 
-![skillstree](https://user-images.githubusercontent.com/12049360/44627391-8da7b180-a92d-11e8-85f4-a927963a1bfb.jpg)
+![skillstree](https://user-images.githubusercontent.com/12049360/44899511-442ade00-ad02-11e8-8e9e-bb306588ef6a.jpg)
 
 Level 1 means that:
 - I can start and shutdown the machine and the air compressor.
@@ -19,12 +19,12 @@ Level 1 means that:
 `[TODO] badge main laser, user`
 
 ### specialist:
-#### [USE 1.1] of lasersaur
+#### [Machine 1] of lasersaur
 Laser cutter DIY, 1200x600mm  
 Tech: CO2, 10600nm  
 Power: 100W  
 ![label](/badge-src/badge-lasersaur.png)
-#### [USE 1.2] of miniA5
+#### [Machine 2] of miniA5
 Laser cutter DIY, 200x170mm  
 Tech: diode, 450nm  
 Power: 2.5W
@@ -35,14 +35,14 @@ Power: 2.5W
 ## conditions
 on which condition do you unlock this badge?  
 ### unlock level 1 from completing one of these challenges:
-- [x] [Making a box](https://nicolasdb.github.io/post/boxes/) to store tools and shit.
+
 - [ ] [Making 10 coins](https://github.com/nicolasdb/nicolasdb.github.io/issues/83#issuecomment-411334080) of 5 crrr.  
-- [ ] Other ideas?
-`soit un job qui serve Openfab, soit un projet pour la personne`
+- [ ] Other ideas?  
+`soit un job qui serve Openfab (OF paye le tps machine et matériaux), soit un projet pour la personne (à charge des membres)`
 
 ## BONUS
-- Whatever machine you use, You'll earn USE1 and his sub-skill associated aka badge USE1.1 or USE1.2
-- I know the different between both machine and use them both together to exploit the best from both.
+- Whatever machine you use, You'll earn USE1 and his sub-skill associated aka badge Machine1 or Machine2
+- I know the different between both machines and I use them both together to exploit the best from both. (double XP when using both on projects)
 
 ### level up
 This badge can level up.   
