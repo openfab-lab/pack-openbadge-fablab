@@ -17,14 +17,27 @@ counting commits on your github profile
 
 
 [todo] creating a scale for leveling up. like 
-- level 1 = 20 commits, => +1 ![git01]
-- level 2 = 40 commits, => ![git01] +1 ![git01]
-- level 3 = 60 commits, => ![git01]![git01] +1 ![git01]
-- level 4 = 100 commits, => ![git01]![git01]![git01] +1 ![git01]
-- level 5 = 160 commits, => ![git01]![git01]![git01]![git01] +1 ![thundercat]
-- level 6 = 260 commits, => ![git01]![git01]![git01]![git01]![thundercat] +1 ![git01]
-- level 7 = 420, => ![git01]![git01]![git01]![git01]![thundercat]![git01] +1 ![git01]
-- 8 = 680, etc..
-- 9 = 1100
-- 10 = 1780
+
+Level | contributions
+-- | --
+1 | 5    
+2 | 20
+3 | 45
+4 | 80
+5 | 125
+6 | 180
+7 | 245
+8 | 320
+9 | 405
+10 | 500
+11 | 605
+12 | 720
+13 | 845
+14 | 980
+15 | 1125
+16 | 1280
+17 | 1445
+18 | 1620
+19 | 1805
+20 | 2000
 
